@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/luoyang/桌面/Path_Planning/base/devel -DCMAKE_INSTALL_PREFIX=/home/luoyang/桌面/Path_Planning/base/install -G Unix Makefiles
